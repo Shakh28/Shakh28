@@ -11,10 +11,10 @@
 
 
 🛠 Me Stack
- 💻   .cs | .html | .css | .js
+💻   .cs | .html | .css | .js
 🌐   .NET 6/5 | MVC | Blazor | WebApi
 🕸   Bootstrap | HTML5 | CSS
-🛢   SqlServer | PostgreSql
+🛢   SqlServer | PostgreSql | PostgresSQL
 ⚙️   Git | Docker |
 
 
